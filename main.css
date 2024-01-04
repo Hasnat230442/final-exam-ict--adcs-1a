@@ -1,0 +1,584 @@
+*{
+    margin-left: 0%;
+    margin-right: 0%;
+}
+.first-image {
+    background-image: url(wwwroot/images/airuni.neww.jpg);
+    background-size: cover;
+    width: 1590px;
+    height: 980px;   
+}
+.nav-up {
+    background-color: #ff0000;
+    margin-top: -.5rem;
+    margin-left: -1rem;
+    width: 100.4rem;
+    height: 3rem;
+    color: rgb(255, 255, 255);
+}
+.h1 {
+    color: rgb(20, 20, 20);
+    margin-top: -4rem;
+    margin-left: 1rem;
+    color: rgb(13, 13, 13);
+}
+.h2 {
+    color: rgb(20, 20, 20);
+    margin-top: -3.1rem;
+    margin-left: 38.5rem;
+    font-size: .7rem;
+    color: rgb(0, 0, 0);
+}
+.h3 {
+    color: rgb(20, 20, 20);
+    margin-top: -2.5rem;
+    margin-left: 50.8rem;
+    font-size: .7rem;
+    text-decoration: none;
+    color: rgb(9, 9, 9);
+    cursor: pointer;
+}
+.h4 {
+    color: rgb(20, 20, 20);
+    margin-top: -2.5rem;
+    margin-left: 59rem;
+    font-size: .7rem;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+.h5 {
+    color: rgb(20, 20, 20);
+    margin-top: -2.5rem;
+    margin-left: 70rem;
+    font-size: .7rem;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+.nav-search-container {
+    float: left;
+    margin-left: 80rem;
+    margin-top: -2.4rem;
+    border-radius: 5rem;
+    cursor: pointer;
+}
+.navbar {
+    background-color: rgba(228, 228, 228, 0.116);
+    width: 76rem;
+    height: 3rem;
+    margin-left: -1rem;
+}
+.nav-h1 {
+    color: rgb(20, 20, 20);
+    margin-top: -3rem;
+    margin-left: 13.5rem;          
+    font-size: .7rem;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+.nav-h2 {
+    color: rgb(20, 20, 20);
+    margin-top: -2.5rem;
+    margin-left: 20.5rem;
+    font-size: .7rem;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+.nav-h3 {
+    color: rgb(20, 20, 20);
+    margin-top: -2.6rem;
+    margin-left: 28.5rem;
+    font-size: .7rem;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+.nav-h4 {
+    color: rgb(20, 20, 20);
+    margin-top: -2.6rem;
+    margin-left: 38.8rem;
+    font-size: .7rem;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+.nav-h5 {
+    color: rgb(20, 20, 20);
+    margin-top: -2.54rem;
+    margin-left: 48rem;
+    font-size: .7rem;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+.nav-h6 {
+    color: rgb(20, 20, 20);
+    margin-top: -2.8rem;
+    margin-left: 59rem;
+    font-size: .7rem;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+.nav-h7 {
+    color: rgb(20, 20, 20);
+    margin-top: -2.6rem;
+    margin-left: 70.5rem;
+    font-size: .7rem;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+.nav-h8 {
+    color: rgb(20, 20, 20);
+    margin-top: -2.6rem;
+    margin-left: 79rem;
+    font-size: .7rem;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+.airuniversity {
+    font-size: 2rem;
+    margin-top: 17rem;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.explorebar {
+    margin-top: -1rem;
+    width: 99.6rem;
+    height: 2rem;
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    color: white;
+    cursor: pointer;
+    border-radius: 5rem;
+}
+.explorebar:hover {
+    background-color: #e3dada;
+    transition: .5s;
+}
+.h1pg1 {
+    text-align: center;
+    font-size: 2rem;
+}
+.h2pg1 {
+    text-align: center;
+    background-color: rgb(255, 0, 0);
+    width: 25rem;
+    height: 3rem;
+    margin-left: 37rem;
+    color: white;
+    cursor: pointer;
+    border-radius: 5rem;
+}
+.h2pg1:hover {
+    background-color: #e3dada;
+    transition: 0.5s;
+}
+.h2pg1text {
+    margin-top: -3.0rem;
+    margin-right: 1.0rem;
+    color: rgb(255, 255, 255);
+    font-size: 2rem;   
+}
+.under-score1 {
+    margin-left: 2rem;
+}
+.offwhitecolor {
+    background-color: rgb(255, 255, 255);
+    width: 98rem;
+    height: 62rem;
+    text-align: center;
+    font-size: 2rem;
+}
+.card {
+    width: 41.5%;;
+    height: -22.5rem;
+    margin-top: 2.6rem;
+    margin-left: 6rem;
+}
+.card:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(2, 2, 2, 0.2);
+  }
+.card-2 {
+    width: 41.5%;
+    margin-top: -47.5rem;
+    margin-left: 48rem;
+}
+.card-2:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(2, 2, 2, 0.2);
+}
+.under-score2 {
+    margin-left: 2rem;
+}
+.h1pg4 {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 5rem;
+    color: black;
+}
+.card-100 {
+    width: 25%;
+    height: 30rem;
+    margin-top: 5.5rem;
+    margin-left: 5rem;
+    cursor: pointer;
+}
+.card-100:hover {
+    box-shadow: .5rem 1.3rem 0 rgba(2, 2, 2, 0.2);
+}
+.container {
+    padding: .2rem 1.2rem;
+}
+.card-101 {
+    width: 100%;
+    height: 30rem;
+    margin-top: -29.8rem;
+    margin-left: 29rem;
+    cursor: pointer;
+}
+.card-101:hover {
+    box-shadow: .5rem 1.3rem 0 rgba(2, 2, 2, 0.2);
+}
+.container {
+    padding: .2rem 1.2rem;
+}
+.card-102 {
+    width: 100%;
+    height: 30rem;
+    margin-top: -30.8rem;
+    margin-left: 29rem;
+    cursor: pointer;
+}
+.card-102:hover {
+    box-shadow: .5rem 1.3rem 0 rgba(2, 2, 2, 0.2);
+}
+.container {
+    padding: .2rem 1.2rem;
+}
+.h2pg4 {
+    background-color: rgb(245, 10, 10);
+    margin-top: 3rem;
+    text-align: center;
+    margin-left: 37rem;
+    width: 25rem;
+    height: 3rem;
+    cursor: pointer;
+    color: white;
+    border-radius: 5rem;
+}
+.h2pg4:hover {
+    background-color: #e3dada;
+    transition: 0.5s;
+}
+.h2pg4text {
+    margin-top: 4.5rem;
+    color: rgb(248, 246, 246);
+    text-align: center;
+    font-size: 2rem;
+}
+.under-score3 {
+    margin-top: 5rem;
+    margin-left: .5rem;
+}
+.offwhitecolor2 {
+    background-color: rgb(238, 229, 229);
+    width: 98rem;
+    height: 58rem;
+    text-align: center;
+    font-size: 2rem;
+}
+.events {
+    color: rgb(20, 20, 20);
+    font-size: 1rem;
+    margin-left: 34rem;
+    float: left;
+    margin-top: 1rem;
+}
+.card-1-1 {
+    width: 45%;
+    height: 46rem;
+    margin-top: 10rem;
+    margin-left: 2rem;
+    cursor: pointer;
+}
+.card-2-1 {
+    width: 100%;
+    height: 39rem;
+    margin-top: -20.8rem;
+    margin-left: 38rem;
+    cursor: pointer;
+}
+.card-3-1 {
+    width: 100%;
+    height: 28rem;
+    margin-top: 0rem;    margin-left: -20rem;
+    cursor: pointer;
+}
+.button-3 {
+    background-color: #ff0a0a;
+    margin-top: 3rem;
+    text-align: center;
+    margin-left: -9rem;
+    height: 2.5rem;
+    width: 15rem;
+    cursor: pointer;
+    border-radius: 5rem;
+}
+.dark {
+    /* background-color: rgba(128, 128, 128, 0.123); */
+}
+.card-1-2 {
+    width: 23%;
+    height: 31rem;
+    margin-top: 5rem;
+    margin-left: 1rem;
+    cursor: pointer;
+}
+.card-1-2:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0, 0, 0, 0.2);
+}
+.card-2-2 {
+    width: 100%;
+    height: 31rem;
+    margin-top: -31rem;
+    margin-left: 23rem;
+    cursor: pointer;
+}
+.card-2-2:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0, 0, 0, 0.2);
+}
+.card-3-2 {
+    width: 100%;
+    height: 31rem;
+    margin-top: -32.3rem;
+    margin-left: 23rem;
+    cursor: pointer;
+}
+.card-3-2:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0, 0, 0, 0.2);
+}
+.card-4-2 {
+    width: 100%;
+    height: 31rem;
+    margin-top: -31rem;
+    margin-left: 46rem;
+    cursor: pointer;
+}
+.card-4-2:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0, 0, 0, 0.2);
+}
+.under-score4 {
+    margin-top: -1rem;
+    margin-left: .5rem;
+}
+.h1pg5 {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: -57rem;
+    color: black;
+}
+.h2pg5 {
+    background-color: rgb(220, 11, 11);
+    margin-top: 3rem;
+    text-align: center;
+    margin-left: 37rem;
+    width: 25rem;
+    height: 3rem;
+    cursor: pointer;
+    color: white;
+    border-radius: 5rem;
+}
+.h2pg5:hover {
+    background-color: #e3dada;
+    transition: 0.5s;
+}
+.h2pg5text {
+    margin-top: 4.5rem;
+    color: rgb(248, 246, 246);
+    text-align: center;
+    font-size: 2rem;
+}
+.h1pg6 {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 7rem;
+    color: black;
+}
+.institutes {
+    margin-top: 3rem;
+    margin-left: 5rem;
+}
+.n4 {
+    margin-top: 1rem;
+    margin-left: 9rem;
+}
+.degreeprograms {
+    margin-top: -5.8rem;
+    margin-left: 17rem;
+}
+.n80 {
+    margin-top: 0.8rem;
+    margin-left: 22rem;
+}
+.EnrolledStudents {
+    margin-top: -5.8rem;
+    margin-left: 32rem;
+}
+.n9698 {
+    margin-top: 0.8rem;
+    margin-left: 36rem;
+}
+.FacultyMembers {
+    margin-top: -5.8rem;
+    margin-left: 47rem;
+}
+.n658 {
+    margin-top: 0.8rem;
+    margin-left: 51rem;
+}
+.AlumniStudents {
+    margin-top: -5.8rem;
+    margin-left: 61.5rem;
+}
+.n11646 {
+    margin-top: 0.8rem;
+    margin-left: 65rem;
+}
+.SocitiesClubs {
+    margin-top: -5.8rem;
+    margin-left: 75.5rem;
+}
+.n24 {
+    margin-top: 0.8rem;
+    margin-left: 80rem;
+}
+.under-score5 {
+    margin-left: .1rem;
+}
+.under-score6 {
+    margin-left: .1rem;
+}
+.offwhitecolor3 {
+    background-color: rgb(238, 229, 229);
+    width: 98rem;
+    height: 88rem;
+}
+.h1pg7 {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 4rem;
+    color: black;
+}
+.Admissionimg {
+    height: -40rem;
+}
+.Admissiontext1 {
+    margin-top: 2rem;
+    margin-left: 1rem;
+    text-align: left;
+}
+.Admissiontext1-1 {
+    margin-top: 1rem;
+    margin-left: 1rem;
+    font-size: 22px;
+}
+.Admissiontext2 {
+    margin-top: -9.2rem;
+    margin-left: 50rem;
+    text-align: left;
+}
+.Admissiontext2-1 {
+    margin-top: 1rem;
+    margin-left: 50rem;
+    text-align: left;
+    font-size: 22px;
+}
+.h1pg8 {
+  background-color: rgb(220, 11, 11);
+  margin-top: -3rem;
+  text-align: center;
+  margin-left: 37rem;
+  width: 25rem;
+  height: 3rem;
+  cursor: pointer;
+  color: white;
+  border-radius: 5rem;
+}
+.h1pg8:hover {
+  background-color: #e3dada;
+  transition: 0.5s;
+}
+.h1pg8text {
+  margin-top: 4.5rem;
+  color: rgb(248, 246, 246);
+  text-align: center;
+  font-size: 2rem;
+}
+.under-score7 {
+    margin-top: .5rem;
+    margin-left: .5rem;
+}
+.h1pg9 {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 4rem;
+    color: black;
+}
+.vision {
+    margin-top: -5rem;
+    margin-left: 1rem;
+    text-align: left;
+}
+.visiontext {
+    margin-top: -2rem;
+    margin-left: 1rem;
+    text-align: left;
+}
+.Goals {
+    margin-top: 1rem;
+    margin-left: 1rem;
+    text-align: left;
+}
+.goalstext {
+    margin-top: -2rem;
+    margin-left: 1rem;
+    text-align: left;
+}
+.visionandgoalsimg {
+    width: 100px;
+    height: 100px;
+    margin-left: 65rem;
+    margin-top: -8rem;
+    border-radius: 100px;
+}
+.copyright {
+    margin-top: -4rem;
+    width: 1575px;
+    height: 8rem;
+    background-color: rgb(2, 2, 43);    
+}
+.copyrighttext {
+    color: rgb(250, 249, 249);
+    text-align: center;
+    margin-top: -5.0rem;
+}
+.airunilogo {
+   margin-top: -10rem;
+   margin-left: 1rem;
+   color: aliceblue;
+   text-align: left; 
+}
+.uan {
+    color: white;
+    margin-top: -4rem;
+    margin-left: -40rem;
+    font-size: 20px;
+}
+.mailaddress {
+    color: white;
+    margin-top: -1.4rem;
+    margin-left: -1.7rem;
+    font-size: 20px;
+}
+.address {
+    color: white;
+    margin-top: -4.7rem;
+    margin-left: 43rem;
+    font-size: 30px;
+}
